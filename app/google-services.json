@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "738723568139",
+    "firebase_url": "https://hardwork-b5e7a.firebaseio.com",
+    "project_id": "hardwork-b5e7a",
+    "storage_bucket": "hardwork-b5e7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738723568139:android:3e0072a40a60610130450e",
+        "android_client_info": {
+          "package_name": "com.azeem.hardwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738723568139-2nlteijmudghncoilbcb78p7tqkobdvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWSlm951dOy6OBEJmyOqNGx7sWyRdGWqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738723568139-2nlteijmudghncoilbcb78p7tqkobdvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

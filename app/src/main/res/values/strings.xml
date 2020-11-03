@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Hardwork</string>
+    <string name="login_enter_mail">enter mail</string>
+    <string name="login_enter_password">enter password</string>
+    <string name="login">Login</string>
+    <string name="login_don_t_remember_password">Don\'t remember password?</string>
+    <string name="login_create">Create</string>
+    <string name="icon">icon</string>
+    <string name="enter_first_name">FIRST NAME</string>
+    <string name="enter_last_name">LAST NAME</string>
+    <string name="enter_mail">MAIL ID</string>
+    <string name="enter_password">PASSWORD</string>
+    <string name="enter_confirm_password">CONFIRM PASSWORD</string>
+    <string name="signup">Signup</string>
+    <string name="signuplogin">Login</string>
+    <string name="title_activity_main_page">MainPageActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home"><b>Home</b></string>
+    <string name="menu_profile"><b>Profile</b></string>
+    <string name="menu_aboutus"><b>About Us</b></string>
+    <string name="menu_privacypolicy"><b>Privacy Policy</b></string>
+    <string name="already_have_account">Already have account?</string>
+    <string name="don_t_remember_password"><u><b>Forgot password❓</b></u></string>
+    <string name="password_reset_page">Password Reset Page</string>
+    <string name="new_password">new password</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="reset">Reset</string>
+    <string name="share"><b>Share</b></string>
+    <string name="read_me"><b>Contact</b></string>
+    <string name="log_out"><b>Log out</b></string>
+    <string name="profile_screen">profile screen</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="password">PASSWORD</string>
+    <string name="username">USERNAME</string>
+    <string name="todo">TODO</string>
+    <string name="alreay_have_accont">Alreay have accont?</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="register"><b>REGISTER</b></string>
+    <string name="login_view">LOGIN</string>
+</resources>
